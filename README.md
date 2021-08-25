@@ -9,7 +9,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](git@github.com:iamBharatManral/frontend__mentors__order-summary-card.git)
+- Solution URL: [Github](git@github.com:iamBharatManral/frontend__mentors__order-summary-card.git)
+- Live Site URL: [Codesandbox](https://yvp8r.csb.app/)
 
 ## Author
 
